@@ -1,7 +1,6 @@
 # OrangeHRM QA Engineer Assignment 2026
 
 
-
 \## Project Overview
 
 
@@ -14,25 +13,25 @@ The automation is implemented using Python, Selenium WebDriver, PyTest, and the 
 
 
 
-\## Tools \& Technologies
+## Tools \& Technologies
 
 
 
-\- Python 3
+- Python 3
 
-\- Selenium WebDriver
+- Selenium WebDriver
 
-\- PyTest
+- PyTest
 
-\- Page Object Model (POM)
+- Page Object Model (POM)
 
-\- Google Chrome
+- Google Chrome
 
-\- Git \& GitHub
+- Git \& GitHub
 
 
 
-\## Automation Scope
+## Automation Scope
 
 
 
@@ -40,23 +39,23 @@ The automated test suite covers:
 
 
 
-1\. OrangeHRM login
+1. OrangeHRM login
 
-2\. Navigation to the PIM module
+2. Navigation to the PIM module
 
-3\. Mouse hover and click on PIM
+3. Mouse hover and click on PIM
 
-4\. Adding 4 employees
+4. Adding 4 employees
 
-5\. Navigating to Employee List
+5. Navigating to Employee List
 
-6\. Verifying the names of the added employees
+6. Verifying the names of the added employees
 
-7\. Logout from the Dashboard
+7. Logout from the Dashboard
 
 
 
-\## Project Structure
+## Project Structure
 
 
 
